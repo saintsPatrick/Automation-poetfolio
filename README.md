@@ -33,5 +33,5 @@ This portfolio highlights some of my recent automation work using Make.com, Zapi
 ---
 
 ### Contact
-📧 [your email]  
-🔗 [your LinkedIn]
+📧 saintspatricks17@gmail.com
+🔗 https://www.linkedin.com/in/saints-patricks-425a4a367/
